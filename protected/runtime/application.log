@@ -1,0 +1,1742 @@
+2012/11/12 20:35:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yii/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/11/12 20:35:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yii/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/11/12 21:13:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yii/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/11/12 21:13:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yii/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/11/12 21:13:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/screen.css".' in /var/www/sites/yii/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('css/screen.css')
+#1 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/screen.css
+HTTP_REFERER=http://www.trabajoderecepcionista.com/index.php?r=site/index
+---
+2012/11/12 21:13:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/main.css".' in /var/www/sites/yii/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('css/main.css')
+#1 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/main.css
+HTTP_REFERER=http://www.trabajoderecepcionista.com/index.php?r=site/index
+---
+2012/11/12 21:13:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/print.css".' in /var/www/sites/yii/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('css/print.css')
+#1 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/print.css
+HTTP_REFERER=http://www.trabajoderecepcionista.com/index.php?r=site/index
+---
+2012/11/12 21:13:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/screen.css".' in /var/www/sites/yii/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('css/screen.css')
+#1 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/screen.css
+HTTP_REFERER=http://www.trabajoderecepcionista.com/index.php?r=site/index
+---
+2012/11/12 21:13:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/main.css".' in /var/www/sites/yii/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('css/main.css')
+#1 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/main.css
+HTTP_REFERER=http://www.trabajoderecepcionista.com/index.php?r=site/index
+---
+2012/11/12 21:13:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/print.css".' in /var/www/sites/yii/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('css/print.css')
+#1 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/print.css
+HTTP_REFERER=http://www.trabajoderecepcionista.com/index.php?r=site/index
+---
+2012/11/12 21:14:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/sunrise/js/plugins.js".' in /var/www/sites/yii/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('themes/sunrise/...')
+#1 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/sunrise/js/plugins.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/index.php?r=site/index
+---
+2012/11/12 21:14:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/sunrise/js/libs/modernizr-2.0.6.min.js".' in /var/www/sites/yii/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('themes/sunrise/...')
+#1 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/sunrise/js/libs/modernizr-2.0.6.min.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/index.php?r=site/index
+---
+2012/11/12 21:14:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/sunrise/js/mylibs/helper.js".' in /var/www/sites/yii/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('themes/sunrise/...')
+#1 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/sunrise/js/mylibs/helper.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/index.php?r=site/index
+---
+2012/11/12 21:14:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/sunrise/js/script.js".' in /var/www/sites/yii/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('themes/sunrise/...')
+#1 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/sunrise/js/script.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/index.php?r=site/index
+---
+2012/11/12 21:14:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/sunrise/favicon.ico".' in /var/www/sites/yii/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('themes/sunrise/...')
+#1 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/sunrise/favicon.ico
+---
+2012/11/12 21:14:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/sunrise/img/l/apple-touch-icon.png".' in /var/www/sites/yii/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('themes/sunrise/...')
+#1 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/sunrise/img/l/apple-touch-icon.png
+---
+2012/11/12 21:14:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/sunrise/js/plugins.js".' in /var/www/sites/yii/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('themes/sunrise/...')
+#1 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/sunrise/js/plugins.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/index.php?r=site/index
+---
+2012/11/12 21:14:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/sunrise/js/script.js".' in /var/www/sites/yii/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('themes/sunrise/...')
+#1 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/sunrise/js/script.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/index.php?r=site/index
+---
+2012/11/12 21:14:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/sunrise/js/mylibs/helper.js".' in /var/www/sites/yii/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('themes/sunrise/...')
+#1 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/sunrise/js/mylibs/helper.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/index.php?r=site/index
+---
+2012/11/12 21:14:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/sunrise/js/libs/modernizr-2.0.6.min.js".' in /var/www/sites/yii/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('themes/sunrise/...')
+#1 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/sunrise/js/libs/modernizr-2.0.6.min.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/
+---
+2012/11/12 21:14:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/sunrise/js/plugins.js".' in /var/www/sites/yii/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('themes/sunrise/...')
+#1 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/sunrise/js/plugins.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/
+---
+2012/11/12 21:14:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/sunrise/js/mylibs/helper.js".' in /var/www/sites/yii/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('themes/sunrise/...')
+#1 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/sunrise/js/mylibs/helper.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/
+---
+2012/11/12 21:14:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/sunrise/js/script.js".' in /var/www/sites/yii/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('themes/sunrise/...')
+#1 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/sunrise/js/script.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/
+---
+2012/11/12 21:23:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/libs/modernizr-2.0.6.min.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:23:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/script.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:23:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/plugins.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:23:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/mylibs/helper.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:23:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/favicon.ico
+---
+2012/11/12 21:23:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/img/l/apple-touch-icon.png
+---
+2012/11/12 21:23:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/plugins.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:23:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/script.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:23:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/mylibs/helper.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:23:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/libs/modernizr-2.0.6.min.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:23:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/mylibs/helper.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:23:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/plugins.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:23:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/script.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:23:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/plugins.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:23:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/script.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:23:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/mylibs/helper.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:24:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/plugins.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:24:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/libs/modernizr-2.0.6.min.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:24:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/mylibs/helper.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:24:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/script.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:24:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/plugins.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:24:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/script.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:24:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/mylibs/helper.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:33:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/plugins.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:33:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/libs/modernizr-2.0.6.min.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:33:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/script.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:33:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/mylibs/helper.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:33:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/plugins.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:33:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/script.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:33:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/mylibs/helper.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:33:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/libs/modernizr-2.0.6.min.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:33:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/script.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:33:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/plugins.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:33:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/mylibs/helper.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:33:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/plugins.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:33:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/script.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:33:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/mylibs/helper.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:33:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/mylibs/helper.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:33:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/script.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:33:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/plugins.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:33:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/libs/modernizr-2.0.6.min.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:33:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/plugins.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:33:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/script.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:33:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/mylibs/helper.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:36:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/libs/modernizr-2.0.6.min.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:36:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/plugins.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:36:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/mylibs/helper.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:36:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/script.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:36:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/plugins.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:36:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/script.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:36:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/mylibs/helper.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:36:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/libs/modernizr-2.0.6.min.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:36:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/script.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:36:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/plugins.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:36:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/mylibs/helper.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:36:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/plugins.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:36:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/script.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:36:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/mylibs/helper.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:36:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/mylibs/helper.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/page?view=about
+---
+2012/11/12 21:36:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/libs/modernizr-2.0.6.min.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/page?view=about
+---
+2012/11/12 21:36:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/plugins.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/page?view=about
+---
+2012/11/12 21:36:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/script.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/page?view=about
+---
+2012/11/12 21:36:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/plugins.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/page?view=about
+---
+2012/11/12 21:36:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/script.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/page?view=about
+---
+2012/11/12 21:36:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/mylibs/helper.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/page?view=about
+---
+2012/11/12 21:36:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/plugins.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:36:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/libs/modernizr-2.0.6.min.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:36:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/mylibs/helper.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:36:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/script.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:36:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/plugins.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:36:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/script.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:36:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/mylibs/helper.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:36:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/libs/modernizr-2.0.6.min.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/page?view=about
+---
+2012/11/12 21:36:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/mylibs/helper.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/page?view=about
+---
+2012/11/12 21:36:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/plugins.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/page?view=about
+---
+2012/11/12 21:36:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/script.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/page?view=about
+---
+2012/11/12 21:36:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/plugins.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/page?view=about
+---
+2012/11/12 21:36:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/script.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/page?view=about
+---
+2012/11/12 21:36:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/mylibs/helper.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/page?view=about
+---
+2012/11/12 21:36:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/plugins.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/contact
+---
+2012/11/12 21:36:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/libs/modernizr-2.0.6.min.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/contact
+---
+2012/11/12 21:36:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/script.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/contact
+---
+2012/11/12 21:36:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/mylibs/helper.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/contact
+---
+2012/11/12 21:36:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/libs/modernizr-2.0.6.min.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/contact
+---
+2012/11/12 21:36:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/plugins.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/contact
+---
+2012/11/12 21:36:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/script.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/contact
+---
+2012/11/12 21:36:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/mylibs/helper.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/contact
+---
+2012/11/12 21:36:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/libs/modernizr-2.0.6.min.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/page?view=about
+---
+2012/11/12 21:36:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/plugins.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/page?view=about
+---
+2012/11/12 21:36:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/script.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/page?view=about
+---
+2012/11/12 21:36:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/mylibs/helper.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/page?view=about
+---
+2012/11/12 21:36:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/plugins.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/page?view=about
+---
+2012/11/12 21:36:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/script.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/page?view=about
+---
+2012/11/12 21:36:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/mylibs/helper.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/page?view=about
+---
+2012/11/12 21:36:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/script.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:36:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/plugins.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:36:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/mylibs/helper.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:36:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/libs/modernizr-2.0.6.min.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:36:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/plugins.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:36:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/script.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:36:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/mylibs/helper.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:38:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/plugins.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:38:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/libs/modernizr-2.0.6.min.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:38:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/mylibs/helper.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:38:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/script.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:38:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/plugins.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:38:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/script.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:38:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/mylibs/helper.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:38:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/libs/modernizr-2.0.6.min.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/page?view=about
+---
+2012/11/12 21:38:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/script.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/page?view=about
+---
+2012/11/12 21:38:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/plugins.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/page?view=about
+---
+2012/11/12 21:38:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/mylibs/helper.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/page?view=about
+---
+2012/11/12 21:38:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/plugins.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/page?view=about
+---
+2012/11/12 21:38:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/script.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/page?view=about
+---
+2012/11/12 21:38:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/mylibs/helper.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/page?view=about
+---
+2012/11/12 21:38:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/plugins.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:38:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/script.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:38:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/libs/modernizr-2.0.6.min.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:38:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/mylibs/helper.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:38:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/plugins.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:38:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/script.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:38:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/mylibs/helper.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:39:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/libs/modernizr-2.0.6.min.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:39:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/libs/modernizr-2.0.6.min.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/page?view=about
+---
+2012/11/12 21:39:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/libs/modernizr-2.0.6.min.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:40:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/libs/modernizr-2.0.6.min.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:40:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/libs/modernizr-2.0.6.min.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/page?view=about
+---
+2012/11/12 21:40:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/libs/modernizr-2.0.6.min.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/contact
+---
+2012/11/12 21:40:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/libs/modernizr-2.0.6.min.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:41:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/libs/modernizr-2.0.6.min.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:44:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/libs/modernizr-2.0.6.min.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:45:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/libs/modernizr-2.0.6.min.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:46:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/libs/modernizr-2.0.6.min.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:46:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/libs/modernizr-2.0.6.min.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:50:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/libs/modernizr-2.0.6.min.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:54:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/libs/modernizr-2.0.6.min.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:55:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "themes".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('themes')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('themes')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/themes/sun...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/themes/sunrise/js/libs/modernizr-2.0.6.min.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 21:58:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in /var/www/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CController.php(271): CController->missingAction('js')
+#1 /var/www/sites/yii/framework/web/CWebApplication.php(283): CController->run('js')
+#2 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('site/js/libs/mo...')
+#3 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/js/libs/modernizr-2.0.6.min.js
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 22:33:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "home/SearchForm".' in /var/www/sites/yii/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('home/SearchForm')
+#1 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/home/SearchForm?Search=&action_results=Go
+HTTP_REFERER=http://www.trabajoderecepcionista.com/site/index
+---
+2012/11/12 22:33:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "home/themes/sunrise/favicon.ico".' in /var/www/sites/yii/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('home/themes/sun...')
+#1 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/home/themes/sunrise/favicon.ico
+---
+2012/11/12 22:33:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "home/themes/sunrise/img/l/apple-touch-icon.png".' in /var/www/sites/yii/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('home/themes/sun...')
+#1 /var/www/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/sites/trabajoderecepcionista.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/home/themes/sunrise/img/l/apple-touch-icon.png
+---
