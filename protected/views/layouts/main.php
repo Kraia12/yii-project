@@ -17,7 +17,6 @@
     <!--[if (lt IE 9) & (!IEMobile)]>
     <script src="themes/sunrise/js/libs/selectivizr-min.js"></script>
     <![endif]-->
-
     <!-- JavaScript -->
     <script src="/js/libs/modernizr-2.0.6.min.js"></script>
 
@@ -92,7 +91,6 @@
             ),
         )); ?>
         </nav><!-- #navigation end -->
-
     </header><!-- #header end -->
 
     <div id="content" class="clearfix"><!-- #content start -->
