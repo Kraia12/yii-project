@@ -41,8 +41,8 @@ return array(
 				'acerca-de' => array('site/page','defaultParams' => array('view' => 'about')),
 				'contacto' => 'site/contact',
 				''=>'site/index',
-				'trabajos/principal'=>'job/index',
-			//	'<controller:\w+>/<id:\d+>'=>'<controller>/view',
+				'ciudades/principal'=>'mexStates/index',
+				'<controller:\w+>/<id:\d+>'=>'<controller>/view',
 			//	'<controller:\w+>/<action:\w+>/<id:\d+>'=>'<controller>/<action>',
 			//	'<controller:\w+>/<action:\w+>'=>'<controller>/<action>',
 			),
@@ -52,15 +52,13 @@ return array(
 			'connectionString' => 'sqlite:'.dirname(__FILE__).'/../data/testdrive.db',
 		),
 		// uncomment the following to use a MySQL database
-		/*
 		'db'=>array(
-			'connectionString' => 'mysql:host=localhost;dbname=testdrive',
+			'connectionString' => 'mysql:host=localhost;dbname=jobfinder',
 			'emulatePrepare' => true,
 			'username' => 'root',
-			'password' => '',
+			'password' => 'admin',
 			'charset' => 'utf8',
 		),
-		*/
 		'errorHandler'=>array(
 			// use 'site/error' action to display errors
 			'errorAction'=>'site/error',
