@@ -19,15 +19,6 @@
     <![endif]-->
     <!-- JavaScript -->
     <script src="/js/libs/modernizr-2.0.6.min.js"></script>
-
-    <!-- For iPhone 4 -->
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="themes/sunrise/img/h/apple-touch-icon.png">
-    <!-- For iPad 1-->
-    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="themes/sunrise/img/m/apple-touch-icon.png">
-    <!-- For iPhone 3G, iPod Touch and Android -->
-    <link rel="apple-touch-icon-precomposed" href="themes/sunrise/img/l/apple-touch-icon-precomposed.png">
-    <!-- For Nokia -->
-    <link rel="shortcut icon" href="themes/sunrise/img/l/apple-touch-icon.png">
     <!-- For everything else -->
     <link rel="shortcut icon" href="themes/sunrise/favicon.ico">
 
@@ -85,43 +76,21 @@
         <nav role="navigation" id="navigation" class="clearfix"><!-- #navigation start -->
         <?php $this->widget('zii.widgets.CMenu',array(
             'items'=>array(
-                array('label'=>'Home', 'url'=>array('/site/index')),
-                array('label'=>'About', 'url'=>array('/site/page', 'view'=>'about')),
-                array('label'=>'Contact', 'url'=>array('/site/contact')),
+                array('label'=>'Inicio', 'url'=>array('/site/index')),
+                array('label'=>'Trabajos', 'url'=>array('/job/index')),
+                array('label'=>'Acerca de', 'url'=>array('/site/page', 'view'=>'about')),
+                array('label'=>'Contacto', 'url'=>array('/site/contact')),
             ),
         )); ?>
         </nav><!-- #navigation end -->
     </header><!-- #header end -->
 
-    <div id="content" class="clearfix"><!-- #content start -->
 
-        <div id="main" role="main" class="clearfix"><!-- #main start -->
-          <style type='text/css'>#indJobContent{padding-bottom: 5px;width: 800px;}#indJobContent .company_location{font-size: 11px;overflow: hidden;display:block;}#indJobContent.wide .job{display:block;float:left;margin-right: 5px;width: 135px;overflow: hidden}#indeed_widget_wrapper{position: relative;font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-size: 13px;font-weight: normal;line-height: 18px;padding: 10px;height: auto;overflow: hidden;}#indeed_widget_header{font-size:18px; padding-bottom: 5px; }#indeed_search_wrapper{clear: both;font-size: 12px;margin-top: 5px;padding-top: 5px;}#indeed_search_wrapper label{font-size: 12px;line-height: inherit;text-align: left; margin-right: 5px;}#indeed_search_wrapper input[type='text']{width: 100px;}#indeed_search_wrapper #qc{float:left;}#indeed_search_wrapper #lc{float:right;}#indeed_search_wrapper.stacked #qc, #indeed_search_wrapper.stacked #lc{float: none; clear: both;}#indeed_search_wrapper.stacked input[type='text']{width: 150px;}#indeed_search_wrapper.stacked label{display: block;padding-bottom: 5px;}#indeed_search_footer{width:295px; padding-top: 5px; clear: both;}#indeed_link{position: absolute;bottom: 1px;right: 5px;clear: both;font-size: 11px;  }#indeed_link a{text-decoration: none;}#results .job{padding: 1px 0px;}</style><style type='text/css'>
-#indeed_widget_wrapper{ width: 300px; height: 250px; background: #FFFFFF;}
-#indeed_widget_wrapper, #indeed_link a{ color: #000000;}
-#results > div { float:left;}
-#results .job  { margin: 0 10px 20px 0;width: 190px;}
-#indJobContent a { color: #00c; }
-#indeed_widget_header{ color: #000000; }
-</style>
-<script type='text/javascript'>
-var ind_pub = '4590579897253855';
-var ind_el = 'indJobContent';
-var ind_pf = '';
-var ind_q = 'Recepcionista';
-var ind_l = 'Hermosillo, Son.';
-var ind_chnl = 'Recepcionista';
-var ind_n = 900;
-var ind_d = 'http://www.indeed.com.mx';
-var ind_t = 40;
-var ind_c = 30;
-</script>
-<script type='text/javascript' src='http://www.indeed.com/ads/jobroll-widget-v2.js'></script>
-
-<div id='indJobContent' class="clearfix"></div>
-        </div><!-- #main end -->
-
-    </div><!-- .content end -->
+        <section id="main" role="main" class="clearfix"><!-- #main start -->
+            <article>
+                <?php echo $content; ?>
+            </article>
+        </section><!-- #main end -->
 
     <footer role="contentinfo" class="clearfix" id="footer"><!-- #footer start -->
 

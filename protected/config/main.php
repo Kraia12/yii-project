@@ -38,9 +38,13 @@ return array(
 		'urlManager'=>array(
 			'urlFormat'=>'path',
 			'rules'=>array(
-				'<controller:\w+>/<id:\d+>'=>'<controller>/view',
-				'<controller:\w+>/<action:\w+>/<id:\d+>'=>'<controller>/<action>',
-				'<controller:\w+>/<action:\w+>'=>'<controller>/<action>',
+				'acerca-de' => array('site/page','defaultParams' => array('view' => 'about')),
+				'contacto' => 'site/contact',
+				''=>'site/index',
+				'trabajos/principal'=>'job/index',
+			//	'<controller:\w+>/<id:\d+>'=>'<controller>/view',
+			//	'<controller:\w+>/<action:\w+>/<id:\d+>'=>'<controller>/<action>',
+			//	'<controller:\w+>/<action:\w+>'=>'<controller>/<action>',
 			),
 			'showScriptName' => false,
 		),
