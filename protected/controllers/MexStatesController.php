@@ -49,10 +49,11 @@ class MexStatesController extends Controller
 	 * Displays a particular model.
 	 * @param integer $id the ID of the model to be displayed
 	 */
-	public function actionView($id)
+	public function actionView($name)
 	{
+		$name = str_replace('-', ' ', $name);
 		$this->render('view',array(
-			'model'=>$this->loadModel($id),
+			'model'=>$this->loadModel($name),
 		));
 	}
 
@@ -121,11 +122,26 @@ class MexStatesController extends Controller
 	 * Lists all models.
 	 */
 	public function actionIndex()
-	{
-		$dataProvider=new CActiveDataProvider('MexStates');
+	{	
+		/*$dataProvider=new CActiveDataProvider('MexStates',array(
+                'pagination'=>array(
+                        'pageSize'=>10,
+			)));
 		$this->render('index',array(
 			'dataProvider'=>$dataProvider,
-		));
+		));*/
+		$criteria=new CDbCriteria(array(
+			'order' => 'name ASC',
+			));
+	    //$count=MexStates::model()->count($criteria);
+	    //$pages=new CPagination($count);
+	    // results per page
+	    //$pages->pageSize=10;
+	    //$pages->applyLimit($criteria);
+	    $models=MexStates::model()->findAll($criteria);
+	    $this->render('index', array(
+	    'models' => $models,
+	    ));
 	}
 
 	/**
@@ -148,9 +164,10 @@ class MexStatesController extends Controller
 	 * If the data model is not found, an HTTP exception will be raised.
 	 * @param integer the ID of the model to be loaded
 	 */
-	public function loadModel($id)
+	public function loadModel($name)
 	{
-		$model=MexStates::model()->with('cities')->findByPk($id);
+		//$model=MexStates::model()->with('cities')->findByPk($id);
+		$model=MexStates::model()->with('cities')->findByAttributes(array('name'=>$name));
 		if($model===null)
 			throw new CHttpException(404,'The requested page does not exist.');
 		return $model;

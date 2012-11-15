@@ -84,7 +84,11 @@
         )); ?>
         </nav><!-- #navigation end -->
     </header><!-- #header end -->
-
+    <?php if(isset($this->breadcrumbs)):?>
+<?php $this->widget('zii.widgets.CBreadcrumbs', array(
+'links'=>$this->breadcrumbs,
+)); ?><!-- breadcrumbs -->
+<?php endif?>
     <div id="content" class="clearfix">
         <div id="main" role="main" class="clearfix"><!-- #main start -->
                 <?php echo $content; ?>

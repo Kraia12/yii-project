@@ -701,50 +701,22 @@ textarea {
   color: #00aaee;
   font-weight: bold;
 }
-/* Sub menus */
-#navigation ul li ul li {
-  font-size: 14px;
-  font-size: 1.4rem;
-  border: none;
-}
-#navigation ul li ul li:first-child {
-  border-top: 1px solid #ddd;
-  border-bottom: none;
-  background: url(../img/bg-sub-nav-top.gif) repeat-x left top;
-  padding-top: 8px;
-}
-#navigation ul li ul li:last-child {
-  border-bottom: none;
-  background: url(../img/bg-sub-nav-btm.gif) repeat-x left bottom;
-  padding-bottom: 8px;
-}
-#navigation ul li ul li ul li {
-  font-size: 14px;
-  font-size: 1.4rem;
-}
-#navigation ul li ul li ul li:last-child {
-  border-bottom: 1px solid #ddd;
-}
-#navigation ul li ul li a {
-  padding-left: 0.75em;
-}
-#navigation ul li ul li ul li a {
-  padding-left: 1.5em;
-}
+
 #content {
   width: 90%;
   max-width: 940px;
   margin: 1.5em auto 3em auto;
 }
 /* Breadcrumbs */
-#Breadcrumbs {
+.breadcrumbs {
   margin-bottom: 1.5em;
   border-bottom: 1px solid #ddd;
   -webkit-box-shadow: 0 1px 0 #ffffff;
   -moz-box-shadow: 0 1px 0 #ffffff;
   box-shadow: 0 1px 0 #ffffff;
+  padding-bottom: 0.7em;
 }
-#Breadcrumbs p {
+.breadcrumbs p {
   margin: 0;
   padding-bottom: 1.5em;
 }

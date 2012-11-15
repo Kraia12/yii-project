@@ -3,18 +3,14 @@
 /* @var $dataProvider CActiveDataProvider */
 
 $this->breadcrumbs=array(
-	'Mex States',
-);
-
-$this->menu=array(
-	array('label'=>'Create MexStates', 'url'=>array('create')),
-	array('label'=>'Manage MexStates', 'url'=>array('admin')),
+	'Estados de Mexico',
 );
 ?>
 
-<h1>Mex States</h1>
+<h1>Selecciona un Estado</h1>
 
-<?php $this->widget('zii.widgets.CListView', array(
-	'dataProvider'=>$dataProvider,
-	'itemView'=>'_view',
-)); ?>
+<?php
+ $this->renderPartial('/mexStates/_view', array(
+	    'data' => $models,
+	    ));
+ ?>

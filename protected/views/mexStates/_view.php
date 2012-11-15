@@ -3,15 +3,10 @@
 /* @var $data MexStates */
 ?>
 
-<div class="view">
-
-	<b><?php echo CHtml::encode($data->getAttributeLabel('id')); ?>:</b>
-	<?php echo CHtml::link(CHtml::encode($data->id), array('view', 'id'=>$data->id,'name'=>$data->name)); ?>
-	<br />
-
-	<b><?php echo CHtml::encode($data->getAttributeLabel('name')); ?>:</b>
-	<?php echo CHtml::encode($data->name); ?>
-	<br />
-
-
-</div>
+<ul class="view">
+<?php foreach($data as $state): ?>
+	<li>
+	<?php echo CHtml::link(CHtml::encode($state->name), array('view','name'=>str_replace(' ','-',strtolower($state->name)))); ?>
+	</li>
+<? endforeach; ?>
+</ul>
