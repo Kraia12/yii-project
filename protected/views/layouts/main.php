@@ -86,6 +86,7 @@
     </header><!-- #header end -->
     <?php if(isset($this->breadcrumbs)):?>
 <?php $this->widget('zii.widgets.CBreadcrumbs', array(
+    'homeLink' => CHtml::link('Inicio', Yii::app()->homeUrl),
 'links'=>$this->breadcrumbs,
 )); ?><!-- breadcrumbs -->
 <?php endif?>

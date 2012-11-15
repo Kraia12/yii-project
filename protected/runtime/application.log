@@ -4040,3 +4040,160 @@ Stack trace:
 REQUEST_URI=/mexStates/Aguascalientes-1
 HTTP_REFERER=http://www.trabajorecepcionista.com/ciudades/principal
 ---
+2012/11/14 21:05:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/sunrise/favicon.ico".' in /var/www/sites/trabajorecepcionista.com/yii/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/sites/trabajorecepcionista.com/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('themes/sunrise/...')
+#1 /var/www/sites/trabajorecepcionista.com/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/sites/trabajorecepcionista.com/releases/trunk/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/sunrise/favicon.ico
+---
+2012/11/14 21:05:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ciudades/themes/sunrise/favicon.ico".' in /var/www/sites/trabajorecepcionista.com/yii/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/sites/trabajorecepcionista.com/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('ciudades/themes...')
+#1 /var/www/sites/trabajorecepcionista.com/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/sites/trabajorecepcionista.com/releases/trunk/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ciudades/themes/sunrise/favicon.ico
+---
+2012/11/14 21:06:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "estado-de-méxico/themes/sunrise/favicon.ico".' in /var/www/sites/trabajorecepcionista.com/yii/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/sites/trabajorecepcionista.com/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('estado-de-m??xi...')
+#1 /var/www/sites/trabajorecepcionista.com/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/sites/trabajorecepcionista.com/releases/trunk/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/estado-de-m%C3%A9xico/themes/sunrise/favicon.ico
+---
+2012/11/14 21:09:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "aguascalientes/themes/sunrise/favicon.ico".' in /var/www/sites/trabajorecepcionista.com/yii/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/sites/trabajorecepcionista.com/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('aguascalientes/...')
+#1 /var/www/sites/trabajorecepcionista.com/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/sites/trabajorecepcionista.com/releases/trunk/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/aguascalientes/themes/sunrise/favicon.ico
+---
+2012/11/14 21:09:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "aguascalientes/themes/sunrise/favicon.ico".' in /var/www/sites/trabajorecepcionista.com/yii/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/sites/trabajorecepcionista.com/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('aguascalientes/...')
+#1 /var/www/sites/trabajorecepcionista.com/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/sites/trabajorecepcionista.com/releases/trunk/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/aguascalientes/themes/sunrise/favicon.ico
+---
+2012/11/14 22:00:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "colima/themes/sunrise/favicon.ico".' in /var/www/sites/trabajorecepcionista.com/yii/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/sites/trabajorecepcionista.com/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('colima/themes/s...')
+#1 /var/www/sites/trabajorecepcionista.com/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/sites/trabajorecepcionista.com/releases/trunk/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/colima/themes/sunrise/favicon.ico
+---
+2012/11/14 23:09:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "baja-california-sur/themes/sunrise/favicon.ico".' in /var/www/sites/trabajorecepcionista.com/yii/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/sites/trabajorecepcionista.com/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('baja-california...')
+#1 /var/www/sites/trabajorecepcionista.com/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/sites/trabajorecepcionista.com/releases/trunk/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/baja-california-sur/themes/sunrise/favicon.ico
+---
+2012/11/14 23:23:48 [error] [php] Trying to get property of non-object (/var/www/sites/trabajorecepcionista.com/releases/trunk/protected/views/site/index.php:20)
+Stack trace:
+#0 /var/www/sites/trabajorecepcionista.com/yii/framework/web/CController.php(870): SiteController->renderFile()
+#1 /var/www/sites/trabajorecepcionista.com/yii/framework/web/CController.php(783): SiteController->renderPartial()
+#2 /var/www/sites/trabajorecepcionista.com/releases/trunk/protected/controllers/SiteController.php(33): SiteController->render()
+#3 /var/www/sites/trabajorecepcionista.com/yii/framework/web/actions/CInlineAction.php(50): SiteController->actionIndex()
+#4 /var/www/sites/trabajorecepcionista.com/yii/framework/web/CController.php(309): CInlineAction->runWithParams()
+#5 /var/www/sites/trabajorecepcionista.com/yii/framework/web/CController.php(287): SiteController->runAction()
+#6 /var/www/sites/trabajorecepcionista.com/yii/framework/web/CController.php(266): SiteController->runActionWithFilters()
+#7 /var/www/sites/trabajorecepcionista.com/yii/framework/web/CWebApplication.php(283): SiteController->run()
+#8 /var/www/sites/trabajorecepcionista.com/yii/framework/web/CWebApplication.php(142): CWebApplication->runController()
+#9 /var/www/sites/trabajorecepcionista.com/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#10 /var/www/sites/trabajorecepcionista.com/releases/trunk/index.php(13): CWebApplication->run()
+REQUEST_URI=/
+in /var/www/sites/trabajorecepcionista.com/releases/trunk/protected/views/site/index.php (20)
+in /var/www/sites/trabajorecepcionista.com/releases/trunk/protected/controllers/SiteController.php (33)
+in /var/www/sites/trabajorecepcionista.com/releases/trunk/index.php (13)
+2012/11/15 00:10:47 [error] [php] Missing argument 1 for IndeedFeed::getFeed(), called in /var/www/sites/trabajorecepcionista.com/releases/trunk/protected/controllers/MexCitiesController.php on line 12 and defined (/var/www/sites/trabajorecepcionista.com/releases/trunk/protected/models/IndeedFeed.php:24)
+Stack trace:
+#0 /var/www/sites/trabajorecepcionista.com/yii/framework/web/actions/CAction.php(107): ReflectionMethod->invokeArgs()
+#1 /var/www/sites/trabajorecepcionista.com/yii/framework/web/actions/CInlineAction.php(48): CInlineAction->runWithParamsInternal()
+#2 /var/www/sites/trabajorecepcionista.com/yii/framework/web/CController.php(309): CInlineAction->runWithParams()
+#3 /var/www/sites/trabajorecepcionista.com/yii/framework/web/CController.php(287): MexCitiesController->runAction()
+#4 /var/www/sites/trabajorecepcionista.com/yii/framework/web/CController.php(266): MexCitiesController->runActionWithFilters()
+#5 /var/www/sites/trabajorecepcionista.com/yii/framework/web/CWebApplication.php(283): MexCitiesController->run()
+#6 /var/www/sites/trabajorecepcionista.com/yii/framework/web/CWebApplication.php(142): CWebApplication->runController()
+#7 /var/www/sites/trabajorecepcionista.com/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#8 /var/www/sites/trabajorecepcionista.com/releases/trunk/index.php(13): CWebApplication->run()
+REQUEST_URI=/aguascalientes/cos%C3%ADo
+in /var/www/sites/trabajorecepcionista.com/releases/trunk/protected/models/IndeedFeed.php (24)
+in /var/www/sites/trabajorecepcionista.com/releases/trunk/protected/controllers/MexCitiesController.php (12)
+in /var/www/sites/trabajorecepcionista.com/releases/trunk/index.php (13)
+2012/11/15 00:13:46 [error] [php] Undefined variable: name (/var/www/sites/trabajorecepcionista.com/releases/trunk/protected/views/mexCities/view.php:9)
+Stack trace:
+#0 /var/www/sites/trabajorecepcionista.com/yii/framework/web/CController.php(870): MexCitiesController->renderFile()
+#1 /var/www/sites/trabajorecepcionista.com/yii/framework/web/CController.php(783): MexCitiesController->renderPartial()
+#2 /var/www/sites/trabajorecepcionista.com/releases/trunk/protected/controllers/MexCitiesController.php(17): MexCitiesController->render()
+#3 unknown(0): MexCitiesController->actionView()
+#4 /var/www/sites/trabajorecepcionista.com/yii/framework/web/actions/CAction.php(107): ReflectionMethod->invokeArgs()
+#5 /var/www/sites/trabajorecepcionista.com/yii/framework/web/actions/CInlineAction.php(48): CInlineAction->runWithParamsInternal()
+#6 /var/www/sites/trabajorecepcionista.com/yii/framework/web/CController.php(309): CInlineAction->runWithParams()
+#7 /var/www/sites/trabajorecepcionista.com/yii/framework/web/CController.php(287): MexCitiesController->runAction()
+#8 /var/www/sites/trabajorecepcionista.com/yii/framework/web/CController.php(266): MexCitiesController->runActionWithFilters()
+#9 /var/www/sites/trabajorecepcionista.com/yii/framework/web/CWebApplication.php(283): MexCitiesController->run()
+#10 /var/www/sites/trabajorecepcionista.com/yii/framework/web/CWebApplication.php(142): CWebApplication->runController()
+#11 /var/www/sites/trabajorecepcionista.com/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#12 /var/www/sites/trabajorecepcionista.com/releases/trunk/index.php(13): CWebApplication->run()
+REQUEST_URI=/aguascalientes/el-llano
+in /var/www/sites/trabajorecepcionista.com/releases/trunk/protected/views/mexCities/view.php (9)
+in /var/www/sites/trabajorecepcionista.com/releases/trunk/protected/controllers/MexCitiesController.php (17)
+in /var/www/sites/trabajorecepcionista.com/releases/trunk/index.php (13)
+2012/11/15 00:16:20 [error] [php] Invalid argument supplied for foreach() (/var/www/sites/trabajorecepcionista.com/releases/trunk/protected/views/mexCities/view.php:19)
+Stack trace:
+#0 /var/www/sites/trabajorecepcionista.com/yii/framework/web/CController.php(870): MexCitiesController->renderFile()
+#1 /var/www/sites/trabajorecepcionista.com/yii/framework/web/CController.php(783): MexCitiesController->renderPartial()
+#2 /var/www/sites/trabajorecepcionista.com/releases/trunk/protected/controllers/MexCitiesController.php(17): MexCitiesController->render()
+#3 unknown(0): MexCitiesController->actionView()
+#4 /var/www/sites/trabajorecepcionista.com/yii/framework/web/actions/CAction.php(107): ReflectionMethod->invokeArgs()
+#5 /var/www/sites/trabajorecepcionista.com/yii/framework/web/actions/CInlineAction.php(48): CInlineAction->runWithParamsInternal()
+#6 /var/www/sites/trabajorecepcionista.com/yii/framework/web/CController.php(309): CInlineAction->runWithParams()
+#7 /var/www/sites/trabajorecepcionista.com/yii/framework/web/CController.php(287): MexCitiesController->runAction()
+#8 /var/www/sites/trabajorecepcionista.com/yii/framework/web/CController.php(266): MexCitiesController->runActionWithFilters()
+#9 /var/www/sites/trabajorecepcionista.com/yii/framework/web/CWebApplication.php(283): MexCitiesController->run()
+#10 /var/www/sites/trabajorecepcionista.com/yii/framework/web/CWebApplication.php(142): CWebApplication->runController()
+#11 /var/www/sites/trabajorecepcionista.com/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#12 /var/www/sites/trabajorecepcionista.com/releases/trunk/index.php(13): CWebApplication->run()
+REQUEST_URI=/aguascalientes/el-llano
+in /var/www/sites/trabajorecepcionista.com/releases/trunk/protected/views/mexCities/view.php (19)
+in /var/www/sites/trabajorecepcionista.com/releases/trunk/protected/controllers/MexCitiesController.php (17)
+in /var/www/sites/trabajorecepcionista.com/releases/trunk/index.php (13)
+2012/11/15 00:31:42 [error] [php] Undefined variable: result (/var/www/sites/trabajorecepcionista.com/releases/trunk/protected/models/IndeedFeed.php:52)
+Stack trace:
+#0 /var/www/sites/trabajorecepcionista.com/yii/framework/web/actions/CAction.php(107): ReflectionMethod->invokeArgs()
+#1 /var/www/sites/trabajorecepcionista.com/yii/framework/web/actions/CInlineAction.php(48): CInlineAction->runWithParamsInternal()
+#2 /var/www/sites/trabajorecepcionista.com/yii/framework/web/CController.php(309): CInlineAction->runWithParams()
+#3 /var/www/sites/trabajorecepcionista.com/yii/framework/web/CController.php(287): MexCitiesController->runAction()
+#4 /var/www/sites/trabajorecepcionista.com/yii/framework/web/CController.php(266): MexCitiesController->runActionWithFilters()
+#5 /var/www/sites/trabajorecepcionista.com/yii/framework/web/CWebApplication.php(283): MexCitiesController->run()
+#6 /var/www/sites/trabajorecepcionista.com/yii/framework/web/CWebApplication.php(142): CWebApplication->runController()
+#7 /var/www/sites/trabajorecepcionista.com/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#8 /var/www/sites/trabajorecepcionista.com/releases/trunk/index.php(13): CWebApplication->run()
+REQUEST_URI=/sonora/hermosillo-
+in /var/www/sites/trabajorecepcionista.com/releases/trunk/protected/models/IndeedFeed.php (52)
+in /var/www/sites/trabajorecepcionista.com/releases/trunk/protected/controllers/MexCitiesController.php (12)
+in /var/www/sites/trabajorecepcionista.com/releases/trunk/index.php (13)
+2012/11/15 00:41:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "sonora/themes/sunrise/favicon.ico".' in /var/www/sites/trabajorecepcionista.com/yii/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/sites/trabajorecepcionista.com/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('sonora/themes/s...')
+#1 /var/www/sites/trabajorecepcionista.com/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/sites/trabajorecepcionista.com/releases/trunk/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/sonora/themes/sunrise/favicon.ico
+---
+2012/11/15 01:00:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "jalisco/themes/sunrise/favicon.ico".' in /var/www/sites/trabajorecepcionista.com/yii/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/sites/trabajorecepcionista.com/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('jalisco/themes/...')
+#1 /var/www/sites/trabajorecepcionista.com/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/sites/trabajorecepcionista.com/releases/trunk/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/jalisco/themes/sunrise/favicon.ico
+---

@@ -6,12 +6,16 @@ class MexCitiesController extends Controller
 		$this->render('index');
 	}
 
-	public function actionView($name,$state)
+	public function actionView($city,$state)
 	{
+		$feed = new IndeedFeed;
+		$jobs = $feed->getFeed(str_replace('-','+',$city),str_replace('-','+',$state));
 		$this->render('view',array(
-			'name'=>$name,
+			'city'=>$city,
 			'state' => $state,
+			'jobs' => $jobs,
 		));
+
 	}
 
 }
