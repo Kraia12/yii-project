@@ -10,12 +10,15 @@ class MexCitiesController extends Controller
 	{
 		$feed = new IndeedFeed;
 		$jobs = $feed->getFeed(str_replace('-','+',$city),str_replace('-','+',$state));
+	/*	$dataProvider = new CArrayDataProvider($jobs,array(
+			'pagination'=>array(
+        	'pageSize'=>3,
+    ),
+			));*/
 		$this->render('view',array(
 			'city'=>$city,
 			'state' => $state,
 			'jobs' => $jobs,
 		));
-
 	}
-
 }

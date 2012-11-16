@@ -1,7 +1,8 @@
 <?php
 /* @var $this MexStatesController */
 /* @var $model MexStates */
-
+/*ar_dump($model);
+die();*/
 $this->breadcrumbs=array(
 	'Estados de Mexico'=>array('index'),
 	$model->name,

@@ -34,6 +34,7 @@
     <link rel="canonical" href="/">
     <!-- Load jQuery -->
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+    <script type="text/javascript" src="http://gdc.indeed.com/ads/apiresults.js"></script>
     <script type="text/javascript">
     if (typeof jQuery == 'undefined') {
         document.write(unescape("%3Cscript src='themes/sunrise/js/libs/jquery-1.6.2.min.js' type='text/javascript'%3E%3C/script%3E"));

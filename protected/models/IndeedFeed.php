@@ -11,7 +11,7 @@ class IndeedFeed extends CFormModel
 	const PUBLISHER = 4590579897253855;
 	const VERSION = 2;
 	const LATITUDELONG = 1;
-	const QUERY = 'recepcionista';
+	const QUERY = 'recepcionista%2Csecretaria';
 //	public $location;
 //	public $radius;
 //	public $jobType;

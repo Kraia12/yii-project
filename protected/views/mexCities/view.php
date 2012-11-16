@@ -15,11 +15,22 @@ $this->breadcrumbs=array(
 	<br />
 </div>
 
-<ul>
-
 <?php foreach($jobs as $job): ?>
-	<li>
-	<?php echo ucwords(strtolower($job->jobtitle)); ?>
-	</li>
+<dl class="job clearfix">
+	<dt>Trabajo</dt>
+	<dd><?php echo ucwords(strtolower($job->jobtitle)); ?></dd>
+	<dt>Compañia</dt>
+	<dd><?php echo ucwords(strtolower($job->company)); ?></dd>
+	<dt>Fecha</dt>
+	<dd><?php echo $job->date; ?></dd>
+	<dt class="description-dt">Descripción</dt>
+	<dd class="description-dd"><?php echo $job->snippet; ?></dd>
+	<dt>Mas información:</dt>
+	<dd><?php echo CHtml::link("Visitar aqui",$job->url,array('onclick'=>$job->onmousedown)); ?></dd>
+</dl>
 <? endforeach; ?>
-</ul>
+<span id=indeed_at><a href="http://www.indeed.com/">jobs</a> by <a
+href="http://www.indeed.com/" title="Job Search"><img
+src="http://www.indeed.com/p/jobsearch.gif" style="border: 0;
+vertical-align: middle;" alt="Indeed job search"></a></span>
+
