@@ -8,10 +8,11 @@
 class IndeedFeed extends CFormModel
 {
 	public $sort;
-	const PUBLISHER = 4590579897253855;
+	const PUBLISHER = '4590579897253855';
 	const VERSION = 2;
 	const LATITUDELONG = 1;
 	const QUERY = 'recepcionista%2Csecretaria';
+	const LIMIT = 10;
 //	public $location;
 //	public $radius;
 //	public $jobType;
@@ -21,9 +22,19 @@ class IndeedFeed extends CFormModel
 //	public $userAgent;
 
 
-	public function getFeed($city,$state,$country='mx',$jobType='')
+	public function getFeed($city,$state,$start=0,$jobType='',$country='mx')
 	{
 		// http://api.indeed.com/ads/apisearch?publisher=4590579897253855&q=java&l=austin%2C+tx&sort=&radius=&st=&jt=&start=&limit=&fromage=&filter=&latlong=1&co=us&chnl=&userip=1.2.3.4&useragent=Mozilla/%2F4.0%28Firefox%29&v=2
+			$url = $this->getUrl($city,$state,$country='mx',$jobType='',$start);
+			$urlData = $this->downloadFeed($url);
+			$xml = new SimpleXMLElement($urlData);
+			$feed = $this->xmlToArray($xml);
+		return $feed;
+
+	}
+
+	public function getUrl($city,$state,$country='mx',$jobType='',$start=0)
+	{
 		$url  = 'http://api.indeed.com/ads/apisearch';
 		$url .=  '?publisher=' . self::PUBLISHER;
 		$url .=  '&q=' . self::QUERY;
@@ -32,8 +43,8 @@ class IndeedFeed extends CFormModel
 		$url .=  '&radius=';
 		$url .=  '&st=';
 		$url .=  '&jt=' . $jobType;
-		$url .=  '&start=';
-		$url .=  '&limit=';
+		$url .=  '&start=' . $start;
+		$url .=  '&limit=' . self::LIMIT;
 		$url .=  '&fromage=';
 		$url .=  '&filter=';
 		$url .=  '&latlong=' . self::LATITUDELONG;
@@ -42,13 +53,8 @@ class IndeedFeed extends CFormModel
 		$url .=  '&userip=' . Yii::app()->request->userHostAddress;
 		$url .=  '&useragent' . urlencode(CHttpRequest::getUserAgent());
 		$url .=  '&v=' . self::VERSION;
-		$urlData = $this->downloadFeed($url);
-		$xml = new SimpleXMLElement($urlData);
-		$feed = $this->xmlToArray($xml);
-		return $feed;
-
+		return $url;
 	}
-
 
 	public function downloadFeed($path)
 	{
@@ -71,6 +77,7 @@ class IndeedFeed extends CFormModel
 	public function xmlToArray($xml)
 	{
 		$result = array();
+		$result['total_results'] = $xml->totalresults;
 		foreach($xml->results->result as $job)
 		{
 			$result[] = $job;
